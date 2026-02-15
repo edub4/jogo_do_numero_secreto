@@ -34,14 +34,6 @@ O sistema verifica se o número é:
 
 HTML5, CSS3, JavaScript (ES6) e Web Speech API
 
-📂 Estrutura do Projeto
-/projeto
-│── index.html
-│── style.css
-│── app.js
-│── /img
-     └── ia.png
-
 👨‍💻 Autor
 
 Desenvolvido para fins de estudo e prática em JavaScript.
